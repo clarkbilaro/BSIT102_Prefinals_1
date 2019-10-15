@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.util.Scanner;
- 
+ // Clark George Bilaro
+
 public class NumberToWordConverter {
    
     public static void main(String[] args) {
